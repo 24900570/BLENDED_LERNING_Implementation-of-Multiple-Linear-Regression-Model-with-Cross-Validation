@@ -41,10 +41,6 @@ Predict outcomes and compare them to the actual values.
 
 ## Program:
 ```
-/*
-Program to implement the multiple linear regression model for predicting car prices with cross-validation.
-Developed by: Abdullah R
-RegisterNumber: 212223230004
 */
 # Importing necessary libraries
 import pandas as pd
